@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{0A6E7E80-F532-4C25-A485-5E3F660A723A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coblis_TudorCristian_Lab11", "Coblis_TudorCristian_Lab11\Coblis_TudorCristian_Lab11.csproj", "{961753D2-86DB-44BC-B60B-F925E090E0EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A6E7E80-F532-4C25-A485-5E3F660A723A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6E7E80-F532-4C25-A485-5E3F660A723A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6E7E80-F532-4C25-A485-5E3F660A723A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6E7E80-F532-4C25-A485-5E3F660A723A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{961753D2-86DB-44BC-B60B-F925E090E0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961753D2-86DB-44BC-B60B-F925E090E0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961753D2-86DB-44BC-B60B-F925E090E0EE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{961753D2-86DB-44BC-B60B-F925E090E0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961753D2-86DB-44BC-B60B-F925E090E0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{961753D2-86DB-44BC-B60B-F925E090E0EE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1146A2B9-F9C7-4455-AC5C-E4A75A77AD6F}
+	EndGlobalSection
+EndGlobal
